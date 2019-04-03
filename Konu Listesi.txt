@@ -1,0 +1,15 @@
+Dönem boyu üzerinden geçeceðimiz konu ve kavramlarýn haftalara daðýlýmý þu þekildedir
+1-	Bilgisayar Kavramlarýna Giriþ
+2-	C Programlamaya Giriþ
+3-	C'de Yapýsal Programlama
+4-	Döngü ve Kontrol Yapýlarý
+5-	Fonksiyonlar
+6-	Diziler
+7-	Ýþaretçiler
+8-	Karakter ve Karakter Dizileri
+9-	Yapýlar
+10-	Sýradan Eriþimli Dosyalar
+11-	Rasgele Eriþimli Dosyalar
+12-	Kendinden Referanslý Yapýlar
+13-	Baðlý Listeler
+14-	Veri Yapýlarý
