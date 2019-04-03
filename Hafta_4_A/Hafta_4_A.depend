@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553199180 source:d:\cprog\hafta_4_a\main.c
+	<stdio.h>
+	<stdlib.h>
+
