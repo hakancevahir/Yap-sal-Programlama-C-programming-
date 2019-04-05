@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554439109 source:d:\cprog\hafta_5_b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
