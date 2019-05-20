@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558264032 source:d:\cprog\hatfa7_a_yeni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
